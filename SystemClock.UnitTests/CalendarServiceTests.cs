@@ -1,9 +1,9 @@
 using System;
 using FluentAssertions;
 using Moq;
-using WebApplication1;
+using SystemClock.Console;
 
-namespace TestProject1;
+namespace SystemClock.UnitTests;
 
 public class CalendarServiceTests
 {

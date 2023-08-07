@@ -1,4 +1,4 @@
-namespace WebApplication1;
+namespace SystemClock.Console;
 
 public class CalendarService : ICalendarService
 {
