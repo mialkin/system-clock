@@ -1,7 +1,7 @@
 using System;
 using FluentAssertions;
 using Moq;
-using SystemClock.Console;
+using SystemClock.Web;
 
 namespace SystemClock.UnitTests;
 

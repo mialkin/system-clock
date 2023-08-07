@@ -1,4 +1,4 @@
-namespace SystemClock.Console;
+namespace SystemClock.Web;
 
 public interface ICalendarService
 {

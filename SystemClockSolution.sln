@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemClock.Console", "SystemClock.Console\SystemClock.Console.csproj", "{8BBF5504-5C66-4C0D-842A-73292A5DE65C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemClock.Web", "SystemClock.Web\SystemClock.Web.csproj", "{8BBF5504-5C66-4C0D-842A-73292A5DE65C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemClock.UnitTests", "SystemClock.UnitTests\SystemClock.UnitTests.csproj", "{6B928657-9147-4634-BFA2-F0C51B781717}"
 EndProject

@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\SystemClock.Console\SystemClock.Console.csproj" />
+      <ProjectReference Include="..\SystemClock.Web\SystemClock.Web.csproj" />
     </ItemGroup>
 
 </Project>
